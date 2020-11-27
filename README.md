@@ -1,2 +1,2 @@
 # order-food
-Application to order food from table inside restaurant.
+Application to order food from menu.
